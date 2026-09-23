@@ -1,0 +1,15 @@
+build/
+outputs/
+*.apk
+!release/*.apk
+android-*.jar
+local.properties
+*.jks
+*.keystore
+*.pk8
+*.pem
+*.log
+*.db
+*.sqlite*
+.idea/
+.gradle/
